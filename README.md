@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://taupe-wisp-f06a36.netlify.app/](https://taupe-wisp-f06a36.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rad-cajeta-545d30.netlify.app/](https://rad-cajeta-545d30.netlify.app/)
 
 - 💬 Ask me about **React, Node.js(CRUD), MongoDB, Express**
 
